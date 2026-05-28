@@ -1,0 +1,8 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An industry-oriented full-stack smart personal finance dashboard with automated spend categorization, budget tracking, robust analytics, and receipt analysis. Managed and developed by D.karthik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
